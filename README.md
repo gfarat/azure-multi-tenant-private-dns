@@ -32,6 +32,12 @@ Real-world implementation of a **multi-tenant hybrid DNS architecture** using:
 
 ---
 
+## 🧠 Why this matters
+
+This repository demonstrates how to implement DNS centralization across tenants in Azure while maintaining workload isolation and governance.
+
+---
+
 ## 🧾 Disclaimer
 
 This project is based on a real-world implementation. All data has been anonymized.
